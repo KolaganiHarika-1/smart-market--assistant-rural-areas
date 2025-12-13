@@ -154,3 +154,35 @@ User login & authentication
 Inventory & stock tracking
 
 AI-based product recommendations
+
+**Architecture**
+
+┌───────────────────────────┐
+        │        Users               │
+        │ ─ Shop Owner               │
+        │ ─ Rural Customer           │
+        │ ─ Delivery Agent           │
+        └────────────┬──────────────┘
+                     │
+                     ▼
+        ┌───────────────────────────┐
+        │   Web / Mobile Interface   │
+        │ (HTML / CSS / JS / React)  │
+        └────────────┬──────────────┘
+                     │
+                     ▼
+        ┌───────────────────────────┐
+        │   Smart Market Engine      │
+        │ (Business Logic Layer)     │
+        └───────┬─────────┬─────────┘
+                │         │
+                ▼         ▼
+     ┌────────────────┐  ┌───────────────────┐
+     │ Local Storage / │  │ AI Agent Layer     │
+     │ Database        │  │ (Decision System) │
+     └────────────────┘  └─────────┬─────────┘
+                                     ▼
+                          ┌────────────────────┐
+                          │ Insights & Actions │
+                          │ (Suggestions)      │
+                          └────────────────────┘
