@@ -47,3 +47,23 @@ Reduce travel time for daily grocery shopping
 Provide a simple UI for all age groups
 
 Build a scalable prototype for future expansion
+
+**Why Village Mart is Important**
+
+Villages lack access to instant grocery platforms
+
+Elderly people and women face difficulty with frequent travel
+
+Small shop owners struggle to compete with big e-commerce apps
+
+Internet connectivity may be limited or unstable
+
+Village Mart addresses these challenges by being:
+
+Lightweight and fast
+
+Simple and intuitive
+
+Offline-capable after first load
+
+Easily extendable to backend systems
