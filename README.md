@@ -67,3 +67,25 @@ Simple and intuitive
 Offline-capable after first load
 
 Easily extendable to backend systems
+
+**Features**
+
+200+ Products
+
+Product Images (Placeholder-based)
+
+Search & Category Filtering
+
+Cart with Quantity Management
+
+Delivery Address Storage
+
+Location Detection (GPS)
+
+Order History Tracking
+
+LocalStorage-based Data Storage
+
+Responsive Design
+
+No Backend Required
