@@ -89,3 +89,11 @@ LocalStorage-based Data Storage
 Responsive Design
 
 No Backend Required
+
+**Project Structure**
+
+Smart-Market-Assistant/
+│
+├── index.html        
+├── README.md      
+
