@@ -35,3 +35,15 @@ Works entirely on the frontend
 Requires minimal technical infrastructure
 
 Village Mart proves that digital transformation in rural areas is possible using simple, accessible solutions.
+
+**Objectives of the Project**
+
+Promote digital adoption in rural communities
+
+Support local kirana stores and small vendors
+
+Reduce travel time for daily grocery shopping
+
+Provide a simple UI for all age groups
+
+Build a scalable prototype for future expansion
